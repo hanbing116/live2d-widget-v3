@@ -1,11 +1,8 @@
 {
-  "models": [
-    {
-      "name": "Amiya",
-      "path": "model/Amiya/"
-    }
-  ],
-  "messages": [
-    "你好，我是阿米娅"
-  ]
+    "models": [
+        ["Amiya"]
+    ],
+    "messages": [
+        ["你好，我是Mao"]
+    ]
 }
