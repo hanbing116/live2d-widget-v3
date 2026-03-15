@@ -8,63 +8,64 @@
 		"Physics": "Amiya.physics3.json",
 		"DisplayInfo": "Amiya.cdi3.json",
 		"Motions": {
-        "Idle": [
-        {
-          "File": "OAO.exp3.json"
-        },
-		{"File": "keyboard.exp3.json"
-			}
-      ],
-      "TapBody": [
-        {
-          "File": "tears.exp3.json"},
-		  {
-		  "File": "shift.exp3.json"},
-		  {
-		  "File": "M.exp3.json"
-        }
-      ]
-		}
-
-		
+			"Idle": [
+				{
+					"File": "OAO.exp3.json"
+				},
+				{
+					"File": "keyboard.exp3.json"
+				}
+			],
+			"TapBody": [
+				{
+					"File": "tears.exp3.json"
+				},
+				{
+					"File": "shift.exp3.json"
+				},
+				{
+					"File": "M.exp3.json"
+				}
+			]
+		},
 		"Expressions": [
-      {
-        "Name": "1",
-        "File": "I.exp3.json"
-      },
-	  {
-        "Name": "2",
-        "File": "M.exp3.json"
-      },
-	  {
-        "Name": "3",
-        "File": "OAO.exp3.json"
-      },
-	  {
-        "Name": "4",
-        "File": "Y.exp3.json"
-      },
-	  {
-        "Name": "5",
-        "File": "black.exp3.json"
-      },
-	   {
-        "Name": "6",
-        "File": "keyboard.exp3.json"
-      },
-	  {
-        "Name": "7",
-        "File": "red.exp3.json"
-      },
-	   {
-        "Name": "8",
-        "File": "shift.exp3.json"
-      },
-		{
-        "Name": "9",
-        "File": "tears.exp3.json"
-      }
-    ]
+			{
+				"Name": "1",
+				"File": "I.exp3.json"
+			},
+			{
+				"Name": "2",
+				"File": "M.exp3.json"
+			},
+			{
+				"Name": "3",
+				"File": "OAO.exp3.json"
+			},
+			{
+				"Name": "4",
+				"File": "Y.exp3.json"
+			},
+			{
+				"Name": "5",
+				"File": "black.exp3.json"
+			},
+			{
+				"Name": "6",
+				"File": "keyboard.exp3.json"
+			},
+			{
+				"Name": "7",
+				"File": "red.exp3.json"
+			},
+			{
+				"Name": "8",
+				"File": "shift.exp3.json"
+			},
+			{
+				"Name": "9",
+				"File": "tears.exp3.json"
+			}
+		]
 	},
 	"Groups": [
 		{
