@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "Amiya.moc3",
 		"Textures": [
-			"Amiya.4096/texture_00.png"
+			"Amiya.4096/texture_00_converted.webp"
 		],
 		"Physics": "Amiya.physics3.json",
 		"DisplayInfo": "Amiya.cdi3.json"
