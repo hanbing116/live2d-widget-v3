@@ -7,6 +7,22 @@
 		],
 		"Physics": "Amiya.physics3.json",
 		"DisplayInfo": "Amiya.cdi3.json",
+		"Motions": {
+        "Idle": [
+        {
+          "File": "OAO.exp3.json",
+		  "File": "keyboard.exp3.json"
+        }
+      ],
+      "TapBody": [
+        {
+          "File": "tears.exp3.json",
+		  "File": "shift.exp3.json",
+		  "File": "M.exp3.json"
+        }
+      ]
+
+		
 		"Expressions": [
       {
         "Name": "1",
