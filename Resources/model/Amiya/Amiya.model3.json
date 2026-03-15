@@ -10,14 +10,17 @@
 		"Motions": {
         "Idle": [
         {
-          "File": "OAO.exp3.json",
-		  "File": "keyboard.exp3.json"
+          "File": "OAO.exp3.json"
         }
+		{"File": "keyboard.exp3.json"
+			}
       ],
       "TapBody": [
         {
-          "File": "tears.exp3.json",
-		  "File": "shift.exp3.json",
+          "File": "tears.exp3.json"}
+		  {
+		  "File": "shift.exp3.json"}
+		  {
 		  "File": "M.exp3.json"
         }
       ],
