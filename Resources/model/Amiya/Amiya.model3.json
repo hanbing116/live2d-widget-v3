@@ -11,9 +11,6 @@
 			"Idle": [
 				{
 					"File": "OAO.exp3.json"
-				},
-				{
-					"File": "keyboard.exp3.json"
 				}
 			],
 			"TapBody": [
