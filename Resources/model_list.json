@@ -1,8 +1,8 @@
 {
-    "models": [
+    "models": 
         ["Amiya"]
-    ],
-    "messages": [
+    ,
+    "messages": 
         ["你好，我是阿米娅"]
-    ]
+    
 }
