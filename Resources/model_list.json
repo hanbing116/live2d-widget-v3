@@ -1,11 +1,8 @@
 {
-  "models": [
-    {
-      "name": "Amiya",
-      "path": "model/Amiya/Amiya.4096/"  // ✅ 指向你的实际路径
-    }
-  ],
-  "messages": [
-    "你好，我是阿米娅"
-  ]
+    "models": [
+        ["Amiya"]
+    ],
+    "messages": [
+        ["我是Amiya"]
+    ]
 }
